@@ -1,4 +1,4 @@
-# opencli-rs-skill
+# palzani-agents-rs-skill
 
 > The perfect companion for ClaudeCode/OpenClaw/Agent,  Give your AI Agent the ability to reach information across the entire web, fetching real-time data from  Bilibili, Zhihu, Twitter/X, YouTube, Weibo, Reddit, Facebook, Instagram, TikTok, Notion, Cursor and 55+ platforms with natural language — reusing your Chrome login session, no API keys needed. Blazing fast Rust binary.
 >
